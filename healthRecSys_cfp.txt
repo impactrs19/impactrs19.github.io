@@ -1,0 +1,113 @@
+  	** Please forward to anyone who might be interested **
+            	*Apologies for multiple postings*
+--------------------------------------------------------------------
+                 	CALL FOR PAPERS
+  International Workshop on Health Recommender Systems,
+         	*Deadline  July 30th, 2018*
+            	to be held in Vancouver (Canada)
+co-located with ACM RECSYS 2018 (https://recsys.acm.org/)
+       	Website: https://healthrecsys.github.io/2018
+--------------------------------------------------------------------
+Important Dates:
+================
+
+** July 30th, 2018, Paper submission deadline
+** August 13th, 2018, Author notification
+** August 27th, 2018, Camera-ready version deadline
+** October 6th, 2018, HRS Workshop
+** 2nd-7th October 2018 RecSys conference 
+
+Workshop Organizers:
+====================
+David Elsweiler (University of Regensburg, Germany)
+Bernd Ludwig (University of Regensburg, Germany)
+Alan Said (University of Skoevde, Sweden)
+Hanna Schaefer (TU Muenchen, Germany)
+Christoph Trattner (University of Bergen, Norway)
+Helma Torkamaan (University of Duisburg-Essen, Germany)
+
+Objectives & Topics:
+====================
+Information systems are becoming more and more intertwined with systems and approaches developed with the purpose of keeping us healthy and increasing our general wellbeing. In the two previous workshops on Health Recommender Systems (HRS), we elaborated a great variety of fields in which recommender systems can improve our awareness, understanding and behavior regarding our own, and the general public's health. At the same time, these application areas bring new challenges into the recommender community. Recommendations that influence the health status of a patient need to be liable, today, they often involve a human in the loop to make sure the recommendations are sound. To make the recommender liable, complex domain-specific user models need to be created, which creates privacy issues. While trust in a recommendation needs to be explicitly earned by e.g. transparency, explanations and empowerment, other systems might want to persuade users into beneficial actions that would not be willingly chosen otherwise. The variety of those challenges also results from the number and diversity of stakeholders involved in health systems. Taking the patient's perspective, simple interaction and safety against harmful recommendations might be the prioritized concern. For clinicians and experts, on the other hand, what matters is precise and accurate content. Finally, health care providers, insurance providers, and clinics are interested in other aspects, e.g. success rates, study results, and financial benefits of the new systems. This workshop goes deeper into the discussions started at the two prior workshops and works towards further development of the research topics in Health Recommender Systems.
+
+Our aim is to enhance the results of the last two workshops in the following areas:
+
+** Elaborate discussion topics of the previous workshops on health promotion, health care as well as methods
+** Strengthen the community of researchers working on Health in RecSys
+** Attract representatives from e.g. health, psychology, medicine, nutrition, fitness
+** Find cross-domain collaboration projects and funding targets
+** Exchange and share infrastructure (datasets and tools)
+
+We invite submissions that may include the following topics but are not
+limited to:
+
+** Algorithms and Recommendation Strategies
+** Domain Knowledge Representation
+** Regulations and Standards
+** Medical Evaluation Techniques
+** User Profiling
+** Pervasive Systems
+** Personalization
+** Behavioral Interventions
+** Persuasion/Nudging/Behavioral Change
+** Gamification and Serious Games
+** Adherence
+** Empowerment
+** Trust
+** Explanations
+** Patient Needs/ Satisfaction
+** User Interaction Design
+** Human/ Expert-in-the-Loop
+** Privacy
+
+The goal of this workshop is to share and discuss research and projects
+that reach beyond classic recommender techniques and discuss health domain
+related challenges of recommender systems.
+
+Submissions:
+============
+We solicit research papers ( up to 6 pages) and short position papers (2 pages), both in the ACM conference paper style. Participants can decide
+between a research focused submission, resulting in a workshop
+presentation, and a project focused submission, resulting in a workshop
+poster. A selection of best papers will be presented in a flash talk. Further papers will be presented in the form of a poster. Papers should be submitted in EasyChair:
+https://easychair.org/conferences/?conf=healthrecsys18
+
+** Submission category research: innovative research ideas, preliminary
+results or system prototypes
+
+** Submission category project: funded research projects, industry and
+research collaborations or health-care and research collaborations
+
+Submission guidelines:
+======================
+All submitted papers must:
+
+** Be written in English;
+** Contain author names, affiliations, and email addresses;
+** Be formatted according to the ACM SIG Proceedings Template with a font
+size no smaller than 9pt;
+** Be in PDF (make sure that the PDF can be viewed on any platform), and
+formatted for US Letter size;
+
+Link or demo in attachment are preferred in both cases. All papers will be
+peer-reviewed, must not be under review in any other conference, workshop
+or journal (at the time of submission), and must contain novel
+contributions. Accepted papers will be published according to the ACM
+RECSYS 2018 WS publication rules.
+Please use the workshop's EasyChair submission page for submitting your
+Paper.
+
+A Few Remarks
+=============
+**  The title of the paper, authors, and the author order cannot be changed after the acceptance
+** Major changes to the text of the reviewed and accepted papers are not permitted after the review
+** At least one of the authors should participate in the workshop, register in the RecSys conference, and personally present the paper in the workshop.
+
+
+Location:
+=========
+RecSys 2018 will be hosted in Vancouver, Canada, at  at Parq Vancouver from October 2-7, 2018.Please visit the RecSys 2017 website for more information about this location: https://recsys.acm.org/recsys18/location/
+
+Contact:
+========
+If you have questions regarding the workshop, do not hesitate to contact the workshop chairs: healthrecsys@gmail.com
